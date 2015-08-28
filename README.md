@@ -1,5 +1,5 @@
 # hello-world
-new repository
+repository
 
 Hii
 I am Tanya Arora
